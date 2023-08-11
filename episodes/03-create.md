@@ -203,9 +203,9 @@ Let's type in a few lines of text.
 
 ![](fig/nano-screenshot.png){alt="screenshot of nano text editor in action with the text It's not publish or perish any more, it's share and thrive"}
 
-Once we're happy with our text, we can press <kbd>Ctrl</kbd>\+<kbd>O</kbd>
+Once we're happy with our text, we can press <kbd>Ctrl</kbd>\+<kbd>o</kbd>
 (press the <kbd>Ctrl</kbd> or <kbd>Control</kbd> key and, while
-holding it down, press the <kbd>O</kbd> key) to write our data to disk. We will be asked
+holding it down, press the <kbd>o</kbd> key) to write our data to disk. We will be asked
 to provide a name for the file that will contain our text. Press <kbd>Return</kbd> to accept
 the suggested default of `draft.txt`.
 
